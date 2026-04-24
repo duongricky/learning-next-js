@@ -2,6 +2,8 @@
 
 Full-stack task management app — Week 3 + Week 4 of the Next.js learning course.
 
+**Live demo:** [learning-next-js-smoky-gamma.vercel.app](https://learning-next-js-smoky-gamma.vercel.app/)
+
 ---
 
 ## Getting Started
